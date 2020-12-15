@@ -1,0 +1,5 @@
+{
+    "port": 5000,
+    "jwtSecret": "krutayazashita",
+    "mongoURI": "mongodb+srv://Myroslav:Mongo_123@cluster0.uayuw.mongodb.net/app?retryWrites=true&w=majority"
+}
